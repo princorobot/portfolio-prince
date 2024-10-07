@@ -46,14 +46,14 @@ export const Status = () => {
           <ContactCard
             url="https://twitter.com/princelisee"
             name="@princelisee"
-            image="https://www.manaschool.net/assets/img/team/mbobnda.png"
+            image="https://media.licdn.com/dms/image/v2/D4E35AQG_OhnzhDhvSw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1727437220977?e=1728928800&v=beta&t=PniZScGWcydnESTHWVSyLXsq0FOw8g5f4Eb27NNnWtM"
             mediumImage="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MMd7HIOliIXVDA6zNsArJwHaHa%26pid%3DApi&f=1&ipt=4d49a10980c6a841d36b317bd3363e472b88cc757ed6034771abeccede58b62a&ipo=images"
             description="1000"
           />
           <ContactCard
             url="https://github.com/princorobot"
             name="Mbobnda Prince Elisee"
-            image="https://media.licdn.com/dms/image/v2/D4E35AQFY8uWdoS6seg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1726674071929?e=1727280000&v=beta&t=dOs-767hWOzSkYtHL_noEQzDdAJR-z1e3q2QYWxB50M"
+            image="https://media.licdn.com/dms/image/v2/D4E35AQG_OhnzhDhvSw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1727437220977?e=1728928800&v=beta&t=PniZScGWcydnESTHWVSyLXsq0FOw8g5f4Eb27NNnWtM"
             mediumImage="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fsocial-icons-5%2F606%2FLinkedIn.png&f=1&nofb=1&ipt=5f9eb209049803d27efe2747388acd4d446926f46cb9c279671a19e4c9224c92&ipo=images"
             description="4000"
           />
